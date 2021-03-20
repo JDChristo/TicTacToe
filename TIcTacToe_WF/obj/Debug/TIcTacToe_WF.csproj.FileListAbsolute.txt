@@ -1,0 +1,12 @@
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\bin\Debug\TIcTacToe_WF.exe.config
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\bin\Debug\TIcTacToe_WF.exe
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\bin\Debug\TIcTacToe_WF.pdb
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.csprojAssemblyReference.cache
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.Form1.resources
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.Properties.Resources.resources
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.csproj.GenerateResource.cache
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.csproj.CoreCompileInputs.cache
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.exe
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.pdb
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.StartForm.resources
+F:\Work\Design\TicTacToe\TIcTacToe_WF\TIcTacToe_WF\obj\Debug\TIcTacToe_WF.SetName.resources
