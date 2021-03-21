@@ -36,11 +36,12 @@
             // LabelName
             // 
             this.LabelName.AutoSize = true;
-            this.LabelName.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelName.Font = new System.Drawing.Font("Calibri", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.LabelName.ForeColor = System.Drawing.Color.White;
             this.LabelName.Location = new System.Drawing.Point(40, 29);
             this.LabelName.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.LabelName.Name = "LabelName";
-            this.LabelName.Size = new System.Drawing.Size(125, 25);
+            this.LabelName.Size = new System.Drawing.Size(109, 24);
             this.LabelName.TabIndex = 11;
             this.LabelName.Text = "Enter Name";
             // 
@@ -54,18 +55,23 @@
             // 
             // EnterBtn
             // 
+            this.EnterBtn.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.EnterBtn.FlatAppearance.BorderColor = System.Drawing.Color.White;
+            this.EnterBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.EnterBtn.Font = new System.Drawing.Font("Calibri", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.EnterBtn.Location = new System.Drawing.Point(154, 86);
             this.EnterBtn.Name = "EnterBtn";
             this.EnterBtn.Size = new System.Drawing.Size(106, 44);
             this.EnterBtn.TabIndex = 13;
             this.EnterBtn.Text = "Enter";
-            this.EnterBtn.UseVisualStyleBackColor = true;
+            this.EnterBtn.UseVisualStyleBackColor = false;
             this.EnterBtn.Click += new System.EventHandler(this.OnEnterBtn);
             // 
             // SetName
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(43)))), ((int)(((byte)(43)))), ((int)(((byte)(43)))));
             this.ClientSize = new System.Drawing.Size(456, 158);
             this.Controls.Add(this.EnterBtn);
             this.Controls.Add(this.NameBox);
